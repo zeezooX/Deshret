@@ -1,2 +1,2 @@
 # Deshret
-Micromouse
+Deshret is a micromouse running on a STM32.
